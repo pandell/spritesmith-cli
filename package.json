@@ -1,5 +1,5 @@
 {
-  "name": "spritesmith-cli",
+  "name": "@pandell/spritesmith-cli",
   "version": "1.1.1",
   "description": "Adds a CLI to the spritesmith module",
   "main": "index.js",

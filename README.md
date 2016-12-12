@@ -1,4 +1,4 @@
-# spritesmith-cli
+# spritesmith-cli (Pandell fork)
 
 > Adds a CLI to the [spritesmith][1] module
 
